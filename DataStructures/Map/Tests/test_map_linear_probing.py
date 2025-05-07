@@ -1,8 +1,9 @@
-from DataStructures.Map import map_linear_probing as mp
 from DataStructures.List import array_list as lt
 from DataStructures.Map import map_entry as me
 from DataStructures.Map import map_functions as mf
 from DataStructures.Utils.utils import handle_not_implemented
+from DataStructures.Map import map_linear_probing as mp
+
 
 
 def setup_tests(scale, shift):
